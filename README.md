@@ -1,3 +1,8 @@
 # StayCation
 
-This is a vacation-rental-platform , built by deriving inspiration from AirBnB.
+A simple Hotel Listing and Review Website <br/>
+
+## Tech Stack Used:
+ ### Frontend: HTML,Bootstrap,Javascript
+ ### Backend: NodeJS,ExpressJS
+ ### Database: MongoDB
